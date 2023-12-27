@@ -39,15 +39,7 @@ export function renderAddPostPageComponent({ appEl, onAddPostClick }) {
       },
     });
 
-    // document
-    //   .getElementById("add-image-button")
-    //   .addEventListener("click", () => {
-    //     const uploadImageValue = document.getElementById(
-    //       "uploade-image-button"
-    //     );
-    //     // console.log(uploadImageValue.value);
-    //     uploadImage({ file: uploadImageValue.value });
-    //   });
+  
 
     document.getElementById("add-button").addEventListener("click", () => {
       const areaText = document.querySelector("textarea");
@@ -78,6 +70,5 @@ export function renderAddPostPageComponent({ appEl, onAddPostClick }) {
 }
 
 {
-  /* <a href="https://learn.javascript.ru/">НаЖми!</a>; */
+ 
 }
-//  <a href="https://learn.javascript.ru/">НаЖми!</a>;
