@@ -3,7 +3,7 @@
 MVP аналога популярной соц. сети для обмена фотографиями
 
 ## Ссылка на приложение:
-https://github.com/Aleksandra1216/-?tab=readme-ov-file#-
+https://aleksandra1216.github.io/webdev-cw-instapro/
 
 
 ## Первоначальная оценка
